@@ -4,7 +4,8 @@
 💻 Aspiring Frontend / Full-Stack Developer  
 🎯 Actively seeking Summer internships
 
-I enjoy building clean, user-friendly web applications and learning by shipping projects.
+I enjoy building clean, user-friendly web applications and learning by shipping
+end-to-end projects with real users and requirements.
 
 ---
 
@@ -29,14 +30,20 @@ A simple habit-tracking app to help users build daily routines.
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Flask
+- **Languages:** Python, JavaScript, HTML/CSS, C++, Java
+- **Frameworks/Concepts:** Flask, OOP, REST APIs, Data Structures
 - **Databases:** SQLite
 - **Tools:** Git, GitHub, VS Code
 
 ---
 
-## 📫 Contact
+## Experience Snapshot
+- Delivered a real-client dashboard with full CRUD + data persistence
+- Comfortable working across frontend, backend, and data layers
+
+---
+
+## 📫 Let's Connect
 - Email: nivedha.aravindmali@gmail.com  
 - LinkedIn: www.linkedin.com/in/nivedha-aravindmali-027a35329
 
