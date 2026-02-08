@@ -13,7 +13,7 @@ end-to-end projects with real users and requirements.
 
 ### 🔹 [Staffing Dashboard](https://github.com/NvyGreen/staffing-dashboard)
 A web app to manage staffing data, track placements, and support business workflows." with "A full-stack web app for managing staffing data, tracking placements, and supporting
-end-to-end business workflows with role-based views and persistent storage.
+end-to-end business workflows with role-based views and persistent storage.  
 **Tech:** Python, Flask, SQLite, HTML, CSS  
 
 ---
