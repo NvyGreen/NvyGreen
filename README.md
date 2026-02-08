@@ -1,11 +1,12 @@
 # Hi, I'm Nivedha 👋
 
-🎓 Software Engineering student  
-💻 Aspiring Frontend / Full-Stack Developer  
-🎯 Actively seeking Summer internships
+💻 Software Engineering student  
+🎨 Frontend & Full-Stack projects  
+🩺 Health Informatics minor  
 
-I enjoy building clean, user-friendly web applications and learning by shipping
-end-to-end projects with real users and requirements.
+I enjoy building clean, user-friendly web applications and learning by shipping end-to-end projects with real users and real requirements.
+
+Currently seeking opportunities to grow through software engineering internships.
 
 ---
 
