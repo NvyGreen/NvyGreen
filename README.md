@@ -19,13 +19,13 @@ A full-stack staffing management dashboard designed to centralize candidate, job
 ---
 
 ### 🔹 [Course Registration System](https://github.com/NvyGreen/course-registration)
-A course registration platform with enrollment limits and waitlist handling.  
+A backend-focused course registration system that manages enrollment caps, waitlists, and course capacity constraints.  
 **Tech:** Python, Flask, SQLite  
 
 ---
 
 ### 🔹 [Habit Tracker](https://github.com/NvyGreen/python-web-habit-tracker)
-A simple habit-tracking app to help users build daily routines.  
+A web-based habit tracker that lets users define habits and track daily consistency over time.  
 **Tech:** Python, Flask, HTML, CSS, MongoDB  
 
 ---
