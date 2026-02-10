@@ -26,16 +26,16 @@ A course registration platform with enrollment limits and waitlist handling.
 
 ### 🔹 [Habit Tracker](https://github.com/NvyGreen/python-web-habit-tracker)
 A simple habit-tracking app to help users build daily routines.  
-**Tech:** Python, Flask, HTML, CSS  
+**Tech:** Python, Flask, HTML, CSS, MongoDB  
 
 ---
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, JavaScript, HTML/CSS, C++, Java, SQL
 - **Frameworks/Concepts:** Flask, OOP, REST APIs, Data Structures, Agile SDLC
-- **Databases:** MySQL, Oracle DB, MongoDB
+- **Databases:** SQLite, MySQL, Oracle DB, MongoDB
 - **Cloud and Platforms:** AWS (EC2, S3, Lambda, RDS, DynamoDB, IAM - foundational)
-- **Tools:** Git, GitHub, REST APIs
+- **Tools:** Git, GitHub
 - **Additional Technical Experience:** Windows/macOS Troubleshooting, system imaging, AV & conferencing systems
 
 ---
