@@ -13,7 +13,7 @@ Currently seeking opportunities to grow through software engineering internships
 ## 🚀 Projects
 
 ### 🔹 [Staffing Dashboard](https://github.com/NvyGreen/staffing-dashboard)
-A full-stack web app for managing staffing data, tracking placements, and supporting end-to-end business workflows.  
+A full-stack staffing management dashboard designed to centralize candidate, job, placement, and billing workflows for a real-world staffing business.  
 **Tech:** Python, Flask, SQLite, HTML, CSS  
 
 ---
