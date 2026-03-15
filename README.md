@@ -32,7 +32,7 @@ A web-based habit tracker that lets users define habits and track daily consiste
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, JavaScript, HTML/CSS, C++, Java, SQL
-- **Frameworks/Concepts:** Flask, OOP, REST APIs, Data Structures, Agile SDLC
+- **Frameworks/Concepts:** Flask, Django, OOP, REST APIs, Data Structures, Agile SDLC
 - **Databases:** SQLite, MySQL, Oracle DB, MongoDB
 - **Cloud and Platforms:** AWS (EC2, S3, Lambda, RDS, DynamoDB, IAM - foundational)
 - **Tools:** Git, GitHub
