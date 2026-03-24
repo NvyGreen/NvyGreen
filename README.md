@@ -12,6 +12,12 @@ Currently seeking opportunities to grow through software engineering internships
 
 ## 🚀 Projects
 
+### 🔹 [ClimateCheck](https://github.com/cheangie/IrvineHacks-Project)
+A web app that lets users input an address and get wildfire, flood, and landslide risk data for that location, as well as recommendations for what steps to take.  
+**Tech:** Python, FastAPI, TypeScript, HTML, CSS  
+
+---
+
 ### 🔹 [Staffing Dashboard](https://github.com/NvyGreen/staffing-dashboard)
 A full-stack staffing management dashboard designed to centralize candidate, job, placement, and billing workflows for a real-world staffing business.  
 **Tech:** Python, Flask, SQLite, HTML, CSS  
@@ -24,9 +30,9 @@ A backend-focused course registration system that manages enrollment caps, waitl
 
 ---
 
-### 🔹 [Habit Tracker](https://github.com/NvyGreen/python-web-habit-tracker)
-A web-based habit tracker that lets users define habits and track daily consistency over time.  
-**Tech:** Python, Flask, HTML, CSS, MongoDB  
+### 🔹 [Escape Room Reservations](https://github.com/NvyGreen/escape-room-reservation)
+A full-stack escape room website with role-based access that lets customers reserve escape rooms and allows employees to edit details.  
+**Tech:** Python, Django, HTML, CSS  
 
 ---
 
