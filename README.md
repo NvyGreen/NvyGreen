@@ -25,7 +25,7 @@ A full-stack staffing management dashboard designed to centralize candidate, job
 ---
 
 ### 🔹 [Academic Success Planner](https://github.com/NvyGreen/academic-success-planner)
-An AI-powered academic planner that calculates workload and burnout risks and suggests optimizations.  
+A Smart academic decision-support system for course scheduling and workload optimization.  
 **Tech:** Python, Flask, SQLite  
 
 ---
