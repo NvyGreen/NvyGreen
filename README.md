@@ -12,20 +12,26 @@ Currently seeking opportunities to grow through software engineering internships
 
 ## 🚀 Projects
 
+### 🔹 [TrendSense](https://github.com/NvyGreen/hack-the-coast-2026)
+An AI-powered platform that analyzes trend signals from multiple sources to identify and rank emerging product opportunities, with a full pipeline from data ingestion to actionable insights via an interactive dashboard.  
+**Tech:** Python, Flask, React  
+
+---
+
 ### 🔹 [ClimateCheck](https://github.com/cheangie/IrvineHacks-Project)
-A web app that lets users input an address and get wildfire, flood, and landslide risk data for that location, as well as recommendations for what steps to take.  
+A location-based risk analysis tool that provides wildfire, flood, and landslide risk insights along with actionable recommendations, integrating external data sources to support real-world decision-making.  
 **Tech:** Python, FastAPI, TypeScript, HTML, CSS  
 
 ---
 
 ### 🔹 [Staffing Dashboard](https://github.com/NvyGreen/staffing-dashboard)
-A full-stack staffing management dashboard designed to centralize candidate, job, placement, and billing workflows for a real-world staffing business.  
+A full-stack workflow management system that centralizes candidate, job, placement, and billing operations, enabling efficient tracking and coordination across multiple business processes.  
 **Tech:** Python, Flask, SQLite, HTML, CSS  
 
 ---
 
 ### 🔹 [Academic Success Planner](https://github.com/NvyGreen/academic-success-planner)
-A Smart academic decision-support system for course scheduling and workload optimization.  
+A decision-support system that optimizes course scheduling and workload planning by helping users balance academic commitments and improve time management.  
 **Tech:** Python, Flask, SQLite  
 
 ---
