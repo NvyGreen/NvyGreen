@@ -13,7 +13,7 @@ Currently seeking opportunities to grow through software engineering internships
 ## 🚀 Projects
 
 ### 🔹 [TrendSense](https://github.com/NvyGreen/hack-the-coast-2026)
-An AI-powered platform that analyzes trend signals from multiple sources to identify and rank emerging product opportunities, with a full pipeline from data ingestion to actionable insights via an interactive dashboard.  
+A platform that analyzes trend signals from multiple sources to identify and rank emerging product opportunities, with a full pipeline from data ingestion to actionable insights via an interactive dashboard.  
 **Tech:** Python, Flask, React  
 
 ---
