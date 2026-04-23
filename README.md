@@ -36,12 +36,6 @@ A decision-support system that optimizes course scheduling and workload planning
 
 ---
 
-### 🔹 [Escape Room Reservations](https://github.com/NvyGreen/escape-room-reservation)
-A full-stack escape room website with role-based access that lets customers reserve escape rooms and allows employees to edit details.  
-**Tech:** Python, Django, HTML, CSS  
-
----
-
 ## 🛠️ Skills & Tools
 - **Languages:** Python, JavaScript, HTML/CSS, C++, Java, SQL
 - **Frameworks/Concepts:** Flask, Django, OOP, REST APIs, Data Structures, Agile SDLC
