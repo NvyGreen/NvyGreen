@@ -18,6 +18,12 @@ A trend intelligence platform that aggregates and analyzes multi-source signals 
 
 ---
 
+### 🔹 [HomeFinder](https://github.com/NvyGreen/HomeFinder)
+A personalized home recommendation system that matches consumer profiles with relevant properties by analyzing multi-source datasets and applying similarity-based modeling, generating ranked recommendations through a full data processing pipeline.  
+**Tech:**  Python, Pandas, NumPy, Scikit-learn, Matplotlib  
+
+---
+
 ### 🔹 [ClimateCheck](https://github.com/cheangie/IrvineHacks-Project)
 A location-based risk analysis tool that provides wildfire, flood, and landslide risk insights along with actionable recommendations, integrating external data sources to support real-world decision-making.  
 **Tech:** Python, FastAPI, TypeScript, HTML, CSS  
