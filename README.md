@@ -1,16 +1,21 @@
 # Hi, I'm Nivedha 👋
 
-💻 Software Engineering student  
-🎨 Frontend & Full-Stack projects  
-🩺 Health Informatics minor  
+I'm a Software Engineering student who learns by building — real clients, hackathons, and solo projects that solve problems I actually care about.
 
-I enjoy building clean, user-friendly web applications and learning by shipping end-to-end projects with real users and real requirements.
+I enjoy the full stack: data modeling and backend constraints, clean APIs, and interfaces people want to use. My Health Informatics minor pushes me to think about systems that affect real decisions — not just CRUD apps.
 
-Currently seeking opportunities to grow through software engineering internships.
+Tech I work with: Python · JavaScript · React · Flask · SQL · AI/LLM APIs  
+Open to software engineering internships — let's connect.
 
 ---
 
 ## 🚀 Projects
+
+### 🔹 [Academic Success Planner](https://github.com/NvyGreen/academic-success-planner)
+Constraint-based academic planning system that enforces real-world enrollment rules (prerequisites, waitlists, capacity) with a robust relational backend and planned AI-driven workload optimization.  
+**Tech:** Python, Flask, SQLite  
+
+---
 
 ### 🔹 [TrendSense](https://github.com/NvyGreen/hack-the-coast-2026)
 A trend intelligence platform that aggregates and analyzes multi-source signals to identify and rank emerging product opportunities, delivering actionable insights through a full data-to-dashboard pipeline.  
@@ -33,12 +38,6 @@ A location-based risk analysis tool that provides wildfire, flood, and landslide
 ### 🔹 [Staffing Dashboard](https://github.com/NvyGreen/staffing-dashboard)
 A full-stack workflow management system that centralizes candidate, job, placement, and billing operations, enabling efficient tracking and coordination across multiple business processes.  
 **Tech:** Python, Flask, SQLite, HTML, CSS  
-
----
-
-### 🔹 [Academic Success Planner](https://github.com/NvyGreen/academic-success-planner)
-A decision-support system that optimizes course scheduling and workload planning by helping users balance academic commitments and improve time management.  
-**Tech:** Python, Flask, SQLite  
 
 ---
 
