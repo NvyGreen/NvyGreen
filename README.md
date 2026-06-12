@@ -17,9 +17,15 @@ Constraint-based academic planning system that enforces real-world enrollment ru
 
 ---
 
-### 🔹 [HeartGuard](https://github.com/NvyGreen/HeartGuard/tree/main)
+### 🔹 [HeartGuard](https://github.com/NvyGreen/HeartGuard)
 An explainable healthcare-ML application that estimates heart-failure risk from clinical indicators, assigns Low/Medium/High risk tiers, and surfaces the contributing factors behind each prediction through an interactive dashboard.  
 **Tech:** Python, Scikit-learn (Random Forest), Pandas, Streamlit  
+
+---
+
+### 🔹 [TrendSense](https://github.com/NvyGreen/hack-the-coast-2026)
+A trend intelligence platform that aggregates and analyzes multi-source signals to identify and rank emerging product opportunities, delivering actionable insights through a full data-to-dashboard pipeline.  
+**Tech:** Python, Flask, React  
 
 ---
 
