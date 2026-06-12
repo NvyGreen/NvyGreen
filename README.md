@@ -4,7 +4,7 @@ I'm a Software Engineering student who learns by building — real clients, hack
 
 I enjoy the full stack: data modeling and backend constraints, clean APIs, and interfaces people want to use. My Health Informatics minor pushes me to think about systems that affect real decisions — not just CRUD apps.
 
-Tech I work with: Python · JavaScript · React · Flask · SQL · Scikit-learn · AI/LLM APIs  
+Tech I work with: Python · JavaScript · React · Flask · SQL · scikit-learn · AI/LLM APIs  
 Open to software engineering internships — let's connect.
 
 ---
@@ -19,7 +19,7 @@ Constraint-based academic planning system that enforces real-world enrollment ru
 
 ### 🔹 [HeartGuard](https://github.com/NvyGreen/HeartGuard)
 An explainable healthcare-ML application that estimates heart-failure risk from clinical indicators, assigns Low/Medium/High risk tiers, and surfaces the contributing factors behind each prediction through an interactive dashboard.  
-**Tech:** Python, Scikit-learn (Random Forest), Pandas, Streamlit  
+**Tech:** Python, scikit-learn (Random Forest), Pandas, Streamlit  
 
 ---
 
@@ -43,8 +43,8 @@ A full-stack workflow management system that centralizes candidate, job, placeme
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, JavaScript, HTML/CSS, C++, Java, SQL
-- **Frameworks/Concepts:** Flask, Django, OOP, REST APIs, Data Structures, Agile SDLC
-- **Data/ML:** Pandas, NumPy, Scikit-learn
+- **Frameworks/Concepts:** Flask, Django, OOP, REST APIs, Data Structures, Agile SDLC, React
+- **Data/ML:** Pandas, NumPy, scikit-learn
 - **Databases:** SQLite, MySQL, Oracle DB
 - **Cloud and Platforms:** AWS (EC2, S3, Lambda, RDS, DynamoDB, IAM - foundational)
 - **Tools:** Git, GitHub
