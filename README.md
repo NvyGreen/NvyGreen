@@ -4,7 +4,7 @@ I'm a Software Engineering student who learns by building — real clients, hack
 
 I enjoy the full stack: data modeling and backend constraints, clean APIs, and interfaces people want to use. My Health Informatics minor pushes me to think about systems that affect real decisions — not just CRUD apps.
 
-Tech I work with: Python · JavaScript · React · Flask · SQL · AI/LLM APIs  
+Tech I work with: Python · JavaScript · React · Flask · SQL · Scikit-learn · AI/LLM APIs  
 Open to software engineering internships — let's connect.
 
 ---
@@ -17,15 +17,9 @@ Constraint-based academic planning system that enforces real-world enrollment ru
 
 ---
 
-### 🔹 [TrendSense](https://github.com/NvyGreen/hack-the-coast-2026)
-A trend intelligence platform that aggregates and analyzes multi-source signals to identify and rank emerging product opportunities, delivering actionable insights through a full data-to-dashboard pipeline.  
-**Tech:** Python, Flask, React  
-
----
-
-### 🔹 [HomeFinder](https://github.com/NvyGreen/HomeFinder)
-A personalized home recommendation system that matches consumer profiles with relevant properties by analyzing multi-source datasets and applying similarity-based modeling, generating ranked recommendations through a full data processing pipeline.  
-**Tech:**  Python, Pandas, NumPy, Scikit-learn, Matplotlib  
+### 🔹 [HeartGuard](https://github.com/NvyGreen/HeartGuard/tree/main)
+An explainable healthcare-ML application that estimates heart-failure risk from clinical indicators, assigns Low/Medium/High risk tiers, and surfaces the contributing factors behind each prediction through an interactive dashboard.  
+**Tech:** Python, Scikit-learn (Random Forest), Pandas, Streamlit  
 
 ---
 
