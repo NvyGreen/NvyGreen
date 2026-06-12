@@ -38,7 +38,8 @@ A full-stack workflow management system that centralizes candidate, job, placeme
 ## 🛠️ Skills & Tools
 - **Languages:** Python, JavaScript, HTML/CSS, C++, Java, SQL
 - **Frameworks/Concepts:** Flask, Django, OOP, REST APIs, Data Structures, Agile SDLC
-- **Databases:** SQLite, MySQL, Oracle DB, MongoDB
+- **Data/ML:** Pandas, NumPy, Scikit-learn
+- **Databases:** SQLite, MySQL, Oracle DB
 - **Cloud and Platforms:** AWS (EC2, S3, Lambda, RDS, DynamoDB, IAM - foundational)
 - **Tools:** Git, GitHub
 - **Additional Technical Experience:** Windows/macOS Troubleshooting, system imaging, AV & conferencing systems
