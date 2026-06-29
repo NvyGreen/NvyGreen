@@ -4,14 +4,14 @@ I'm a Software Engineering student who learns by building — real clients, hack
 
 I enjoy the full stack: data modeling and backend constraints, clean APIs, and interfaces people want to use. My Health Informatics minor pushes me to think about systems that affect real decisions — not just CRUD apps.
 
-Tech I work with: Python · JavaScript · React · Flask · SQL · scikit-learn · AI/LLM APIs  
+Tech I work with: Python · JavaScript · React · Flask · SQL · scikit-learn  
 Open to software engineering internships — let's connect.
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 [Academic Success Planner](https://github.com/NvyGreen/academic-success-planner)
+### 🔹 [Academic Success Planner](https://github.com/NvyGreen/academic-success-planner) · [🔗 Live Demo](https://nvygreen.pythonanywhere.com/)
 A decision-support web app that helps students plan course schedules around workload and burnout risk, with explainable drop/swap recommendations. Enforces real registration rules (prerequisites, waitlists, capacity, time conflicts) over a normalized 15-table schema — load-tested with Locust, 86% test coverage, CI on every push.  
 **Tech:** Python, Flask, SQLite, Locust, GitHub Actions  
 
@@ -49,12 +49,6 @@ A full-stack workflow management system that centralizes candidate, job, placeme
 - **Cloud and Platforms:** AWS (EC2, S3, Lambda, RDS, DynamoDB, IAM - foundational)
 - **Tools:** Git, GitHub
 - **Additional Technical Experience:** Windows/macOS Troubleshooting, system imaging, AV & conferencing systems
-
----
-
-## Experience Snapshot
-- Delivered a real-client dashboard with full CRUD + data persistence
-- Comfortable working across frontend, backend, and data layers
 
 ---
 
