@@ -12,8 +12,8 @@ Open to software engineering internships — let's connect.
 ## 🚀 Projects
 
 ### 🔹 [Academic Success Planner](https://github.com/NvyGreen/academic-success-planner)
-Constraint-based academic planning system that enforces real-world enrollment rules (prerequisites, waitlists, capacity) with a robust relational backend and planned AI-driven workload optimization.  
-**Tech:** Python, Flask, SQLite  
+A decision-support web app that helps students plan course schedules around workload and burnout risk, with explainable drop/swap recommendations. Enforces real registration rules (prerequisites, waitlists, capacity, time conflicts) over a normalized 15-table schema — load-tested with Locust, 86% test coverage, CI on every push.  
+**Tech:** Python, Flask, SQLite, Locust, GitHub Actions  
 
 ---
 
